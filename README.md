@@ -15,4 +15,13 @@
 <a href=https://harrypotter.fandom.com/wiki/Hogwarts_School_of_Witchcraft_and_Wizardry>Hogwarts School of Witchcraft and Wizardry</a>
 (2001 - 2008)
 
+## Research Interests
+* Remote sensing and raster GIS analytics
+* Machine learning applications of Earth Observations
+* Land change modeling and monitoring
+* Species distribution modeling and biodiversity analysis
+* Urban forest management and carbon markets
+* Coastal wetlands and tropical forest mapping
+
+
 
